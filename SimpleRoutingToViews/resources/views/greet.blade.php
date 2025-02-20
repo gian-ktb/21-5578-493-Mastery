@@ -6,7 +6,6 @@
     <title>Greet Page</title>
 </head>
 <body>
-    <h1>Welcome to the Greet Page!</h1>
-    <p>This is a simple Blade view rendered by the GreetController.</p>
+    <h1>Hello from the Greet Page!</h1>
 </body>
 </html>
